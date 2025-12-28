@@ -10,16 +10,6 @@ An **ESP8266** is used to:
 
 ---
 
-## 📁 Repository Structure
-
-- `cosmic_byte_blitz_dongle_esp8266_client.ino`  
-  → Main ESP8266 firmware
-
-You can add:
-- Circuit diagram image(s)
-- Enclosure photos
-
----
 
 ## ⚙️ How It Works (Overview)
 
